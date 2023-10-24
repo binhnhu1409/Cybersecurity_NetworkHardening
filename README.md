@@ -14,3 +14,7 @@ After inspecting the organization’s network, you discover four major vulnerabi
 If no action is taken to address these vulnerabilities, the organization is at risk of experiencing another data breach or other attacks in the future. 
 
 You will write a security risk assessment to analyze the incident and explain what methods can be used to further secure the network.
+
+## Tasks have been completed:
+- [x] Identify some common network hardening tools that can be implemented to protect the organization’s overall security.
+- [x] Select a specific vulnerability that the company has and propose different network hardening methods in the [report](https://github.com/binhnhu1409/Cybersecurity_NetworkHardening/blob/main/Security%20%20report.pdf)
